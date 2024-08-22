@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mkl8a
+- 👋 Hi, I’m Mikel Ochoa
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning R and Python.
+- 🌱 I’m currently learning Python.
 - 📫 You can reach me at mikel.ochoa@gmail.com
 - ⚡ Fun fact: I live with 2 lovely labrador dogs that help me walk away from the computer 3 times a day for a total of 3.5 hours, the rest of the hours they sleep.
 

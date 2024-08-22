@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python.
 - 📫 You can reach me at mikel.ochoa@gmail.com
-- ⚡ Fun fact: I live with 2 lovely labrador dogs that help me walk away from the computer 3 times a day for a total of 3.5 hours, the rest of the hours they sleep.
+- ⚡ Fun fact: I live with a lovely labrador dog that helps me to walk away from the computer a few times during day, we ramble along the river, climb up some hills, come back home, eat some food and the remaining 20 hours she sleeps.
 
 <!---
 mkl8a/mkl8a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

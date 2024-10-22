@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mikel Ochoa
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Data Analytics and Data Science.
 - 📫 You can reach me at mikel.ochoa@gmail.com
 
 
